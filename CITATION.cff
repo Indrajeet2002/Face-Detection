@@ -1,0 +1,8 @@
+title: Face-Detection
+repository-code: https://github.com/Indrajeet2002/Face-Detection
+version: '1.0'
+date-released: 2023-05-08
+authors:
+  - given-names: Indrajeet
+    family-names: Patwardhan
+cff-version: 1.2.0
